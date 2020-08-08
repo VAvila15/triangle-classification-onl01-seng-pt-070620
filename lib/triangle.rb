@@ -6,4 +6,8 @@ class Triangle
     @scalene = scalene
   end
   
+  def kind
+    
+  end
+  
 end
