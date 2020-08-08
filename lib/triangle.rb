@@ -22,7 +22,7 @@ class Triangle
     end
   end
   
-  def TriangleError < StandardError
+  class TriangleError < StandardError
     def message
       "This is my error!"
     end
