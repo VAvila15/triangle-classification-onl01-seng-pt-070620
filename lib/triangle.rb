@@ -20,9 +20,10 @@ class Triangle
         :scalene
       end
     end
+  end
   
   def TriangleError < StandardError
-    
+    "This is my error!"
   end 
   
 end
